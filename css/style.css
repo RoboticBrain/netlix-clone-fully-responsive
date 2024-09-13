@@ -91,7 +91,7 @@ ul {
     position: relative;
     width: 100vw;
     height: 90vh;
-    background: url("/pics/background.webp");
+    background: url("./pics/background.webp");
     color: white;
 }
 .showcase::after{
